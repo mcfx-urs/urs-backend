@@ -7,6 +7,6 @@ actual service is hosted.
 The real backend (Go REST API + MariaDB) is self-hosted on private
 GitLab, not on GitHub. It's the shared API behind the rest of the
 `urs` household-tracking app family:
-[urs-android](https://github.com/3lefeint/urs-android),
-[urs-web](https://github.com/3lefeint/urs-web),
-[urs-zepp](https://github.com/3lefeint/urs-zepp).
+[urs-android](https://github.com/mcfx-urs/urs-android),
+[urs-web](https://github.com/mcfx-urs/urs-web),
+[urs-zepp](https://github.com/mcfx-urs/urs-zepp).
